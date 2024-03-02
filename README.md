@@ -1,4 +1,4 @@
-# Example-2-1-Astrom-book
+# Example 2-1 Astrom
 
 We estimate the system parameters using the Least Squares (LS) method. The system model is given by:
 
